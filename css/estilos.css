@@ -5,6 +5,9 @@
   font-size: 50px;
   font-family: 'Pacifico', cursive;
 }
+.letra{
+  font-size: 20px;
+}
 
 #index{
   background-image: url(../img/fondo-pagia.jpg);
@@ -18,6 +21,7 @@
   font-size: 80px;
   font-family: 'Cabin Condensed', sans-serif;
   background-color: #EB984E;
+  padding: 5px;
 }
 .subtitulos{
   color: white;
