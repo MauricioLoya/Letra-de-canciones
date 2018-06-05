@@ -1,0 +1,30 @@
+*{
+  font-family: 'Heebo', sans-serif;
+}
+.logo{
+  font-size: 50px;
+  font-family: 'Pacifico', cursive;
+}
+
+#index{
+  background-image: url(../img/fondo-pagia.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 900px;
+  width: 100%;
+}
+.titulo{
+  color: white;
+  font-size: 80px;
+  font-family: 'Cabin Condensed', sans-serif;
+  background-color: #EB984E;
+}
+.subtitulos{
+  color: white;
+  font-size: 40px;
+  font-family: 'Cabin Condensed', sans-serif;
+}
+#lista{
+  font-size: 30px;
+  font-family: 'Heebo', sans-serif;
+}
