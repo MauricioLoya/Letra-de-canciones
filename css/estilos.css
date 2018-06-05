@@ -1,12 +1,19 @@
 *{
   font-family: 'Heebo', sans-serif;
 }
+a{
+  color: #EB984E;
+}
 .logo{
   font-size: 50px;
   font-family: 'Pacifico', cursive;
 }
 .letra{
   font-size: 20px;
+}
+.caja{
+  border-radius: 9px;
+  border: 3px solid #EB984E;
 }
 
 #index{
